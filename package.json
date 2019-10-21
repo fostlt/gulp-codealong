@@ -1,0 +1,23 @@
+{
+  "name": "gulp-starter",
+  "version": "1.0.0",
+  "description": "My first gulp project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "echo 'Hey alright'"
+  },
+  "keywords": [
+    "gulp",
+    "node",
+    "npm"
+  ],
+  "author": "Lance",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-rename": "^1.4.0",
+    "gulp-terser": "^1.2.0"
+  }
+}
